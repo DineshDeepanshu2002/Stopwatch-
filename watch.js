@@ -81,7 +81,3 @@ reset.onclick = () => {
 
 
 
-
-
-
-
