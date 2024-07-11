@@ -1,0 +1,101 @@
+*{
+    margin: 0px; padding: 0px;box-sizing: border-box;
+}
+
+body { background-image:url("hh.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh ;
+display: flex;
+align-items: center; justify-content: center;}
+
+.container {
+
+    
+    padding :25px;
+    width: 450px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#stopwatchduration{
+font-size: 80px; color: #89f76b;;}
+
+.lapsbutton { display: flex;
+    justify-content: center;
+gap: 90px;
+
+}
+
+.lapsbutton button {
+    height: 45px;
+    width: 25%;
+    border-radius: 5px;
+    background: #89f76b;;
+    border: none;
+    padding: 5px;
+    margin: 8px;
+    cursor : pointer;
+    font-size: 16px;
+
+}
+#laps {
+
+    height: 200px;
+    padding: 10px;
+    overflow: auto ;
+}
+
+#laps li {
+    font-size: 22px;
+    padding: 10px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
