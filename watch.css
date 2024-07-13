@@ -14,8 +14,10 @@ align-items: center; justify-content: center;}
     
     padding :25px;
     width: 450px;
-    border-radius: 15px;
+    border-radius: 15px; 
     text-align: center;
+    
+
 }
 
 #stopwatchduration{
@@ -47,14 +49,14 @@ gap: 90px;
 }
 
 #laps li {
-    font-size: 22px;
+    font-size: 32px;
     padding: 10px;
-
+    color: aliceblue;
 
 
 }
 
-
+#stop, #reset { background: red;}
 
 
 
